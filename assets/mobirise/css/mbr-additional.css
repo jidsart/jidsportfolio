@@ -49,7 +49,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -654,7 +654,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1487,26 +1487,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-qYEvYeUxUX {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f9f9f9;
-}
-.cid-qYEvYeUxUX h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qYEvYeUxUX p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qYEvYeUxUX .card-box {
-  padding-top: 2rem;
-}
-.cid-qYEvYeUxUX .card-wrapper {
-  height: 100%;
-}
 .cid-qYBCRBychr .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1890,7 +1870,7 @@ body {
 }
 .cid-qYBJCoQy6Y {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qYBJCoQy6Y .mbr-section-subtitle {
@@ -1942,6 +1922,47 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-qYGJpUbu28 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qYGJpUbu28 .card-img {
+  background-color: #fff;
+}
+.cid-qYGJpUbu28 .card-box {
+  padding: 2rem;
+}
+.cid-qYGJpUbu28 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qYGJpUbu28 p {
+  text-align: left;
+}
+.cid-qYGJpUbu28 .mbr-text {
+  color: #767676;
+}
+.cid-qYGJpUbu28 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qYGJpUbu28 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qYGJpUbu28 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qYGJpUbu28 .card-title {
+  text-align: center;
 }
 .cid-qYCLPShOgW {
   padding-top: 30px;
