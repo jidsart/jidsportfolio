@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-23_1443",
-    "currentPage": "index.html",
+    "currentPage": "website.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8349,7 +8349,7 @@
         }
       ]
     },
-    "page14.html": {
+    "SilkscreenPrint.html": {
       "settings": {
         "meta_descr": "An archive of Silkscreen and digital print completed for a large variety of clients and industries.",
         "title": "Silkscreen Print",
@@ -8835,7 +8835,7 @@
         }
       ]
     },
-    "Animations Archive.html": {
+    "AnimationsArchive.html": {
       "settings": {
         "meta_descr": "Animations Archive",
         "title": "Animations Archive",
