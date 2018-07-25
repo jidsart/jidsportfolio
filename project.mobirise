@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-23_1443",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -281,7 +281,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"Animations Archive.html\">ANIMATION</a>",
+                "caption": "<a href=\"Animations Archive.html\" class=\"text-white\">ANIMATION</a>",
                 "active": false
               },
               {
@@ -307,7 +307,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page14.html\">PRINT</a>",
+                "caption": "<a href=\"page14.html\" class=\"text-white\">PRINT</a>",
                 "active": false
               }
             ]
